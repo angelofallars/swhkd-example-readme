@@ -25,13 +25,13 @@
      showgrid="false"
      inkscape:zoom="0.49353255"
      inkscape:cx="563.28605"
-     inkscape:cy="352.56033"
+     inkscape:cy="356.61275"
      inkscape:window-width="1346"
      inkscape:window-height="724"
      inkscape:window-x="8"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="text4022" />
   <defs
      id="defs824">
     <rect
@@ -62,16 +62,32 @@
        transform="scale(0.26458333)"
        id="text2824"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2826);fill:#000000;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="SWHKD"
        transform="matrix(1.5955097,0,0,1.6974092,-109.31707,-390.12997)"
        id="text4022"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4024);fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="76.835938"
-         y="276.92969"
-         id="tspan15613"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
-           id="tspan15611">SWHKD</tspan></tspan></text>
+       style="font-size:40px;line-height:1.25;white-space:pre;shape-inside:url(#rect4024)">
+      <path
+         d="m 100.80078,248.6875 v 6.17187 q -2.402343,-1.07421 -4.687499,-1.62109 -2.285156,-0.54687 -4.316406,-0.54687 -2.695313,0 -3.984375,0.74218 -1.289063,0.74219 -1.289063,2.30469 0,1.17188 0.859375,1.83594 0.878907,0.64453 3.164063,1.11328 L 93.75,259.33203 q 4.863281,0.97656 6.91406,2.96875 2.05078,1.99219 2.05078,5.66406 0,4.82422 -2.87109,7.1875 -2.851563,2.34375 -8.730469,2.34375 -2.773437,0 -5.566406,-0.52734 -2.792969,-0.52734 -5.585938,-1.5625 v -6.34766 q 2.792969,1.48438 5.390625,2.2461 2.617188,0.74218 5.039063,0.74218 2.460937,0 3.769531,-0.82031 1.308594,-0.82031 1.308594,-2.34375 0,-1.36719 -0.898438,-2.10937 -0.878906,-0.74219 -3.535156,-1.32813 L 88.125,264.80078 q -4.375,-0.9375 -6.40625,-2.98828 -2.011719,-2.05078 -2.011719,-5.52734 0,-4.35547 2.8125,-6.69922 2.8125,-2.34375 8.085938,-2.34375 2.402343,0 4.941406,0.37109 2.539062,0.35156 5.253905,1.07422 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
+         id="path17075" />
+      <path
+         d="m 106.83594,247.76953 h 7.20703 l 5.03906,21.19141 5,-21.19141 h 7.24609 l 5,21.19141 5.03907,-21.19141 h 7.14843 l -6.875,29.16016 h -8.67187 l -5.29297,-22.16797 -5.23437,22.16797 h -8.67188 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
+         id="path17077" />
+      <path
+         d="m 153.4375,247.76953 h 7.51953 v 11.11328 h 11.09375 v -11.11328 h 7.51953 v 29.16016 h -7.51953 v -12.36328 h -11.09375 v 12.36328 h -7.51953 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
+         id="path17079" />
+      <path
+         d="m 186.91406,247.76953 h 7.51953 v 10.64453 l 10.83985,-10.64453 h 8.73047 l -14.04297,13.80859 15.48828,15.35157 h -9.41406 l -11.60157,-11.48438 v 11.48438 h -7.51953 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
+         id="path17081" />
+      <path
+         d="m 225.42969,253.45312 v 17.79297 h 2.69531 q 4.60937,0 7.03125,-2.28515 2.44141,-2.28516 2.44141,-6.64063 0,-4.33594 -2.42188,-6.60156 -2.42187,-2.26563 -7.05078,-2.26563 z m -7.51953,-5.68359 h 7.92968 q 6.64063,0 9.88282,0.95703 3.26171,0.9375 5.58593,3.20313 2.05078,1.97265 3.04688,4.55078 0.99609,2.57812 0.99609,5.83984 0,3.30078 -0.99609,5.89844 -0.9961,2.57812 -3.04688,4.55078 -2.34375,2.26563 -5.625,3.22266 -3.28125,0.9375 -9.84375,0.9375 h -7.92968 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold';fill:#ffffff"
+         id="path17083" />
+    </g>
     <ellipse
        style="fill:#fbc632;fill-opacity:1;stroke-width:0.264999"
        id="path14006"
